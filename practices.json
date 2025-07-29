@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "title": "Breathe with Awareness",
+    "description": "A short practice: breathe with awareness to reconnect with presence.",
+    "category": "Breathing",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.92
+  },
+  {
+    "id": "2",
+    "title": "Gratitude Check",
+    "description": "A short practice: gratitude check to reconnect with presence.",
+    "category": "Stillness",
+    "difficulty": "medium",
+    "isPremium": true,
+    "probability": 0.63
+  },
+  {
+    "id": "3",
+    "title": "Body Scan",
+    "description": "A short practice: body scan to reconnect with presence.",
+    "category": "Breathing",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.72
+  },
+  {
+    "id": "4",
+    "title": "Nature Walk",
+    "description": "A short practice: nature walk to reconnect with presence.",
+    "category": "Stillness",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.79
+  },
+  {
+    "id": "5",
+    "title": "Silent Tea Ritual",
+    "description": "A short practice: silent tea ritual to reconnect with presence.",
+    "category": "Stillness",
+    "difficulty": "easy",
+    "isPremium": true,
+    "probability": 0.98
+  },
+  {
+    "id": "6",
+    "title": "Loving-Kindness",
+    "description": "A short practice: loving-kindness to reconnect with presence.",
+    "category": "Focus",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.36
+  },
+  {
+    "id": "7",
+    "title": "5-Minute Stillness",
+    "description": "A short practice: 5-minute stillness to reconnect with presence.",
+    "category": "Compassion",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.37
+  },
+  {
+    "id": "8",
+    "title": "Mantra Repetition",
+    "description": "A short practice: mantra repetition to reconnect with presence.",
+    "category": "Movement",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.82
+  },
+  {
+    "id": "9",
+    "title": "Candle Gazing",
+    "description": "A short practice: candle gazing to reconnect with presence.",
+    "category": "Detox",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.34
+  },
+  {
+    "id": "10",
+    "title": "Mindful Shower",
+    "description": "A short practice: mindful shower to reconnect with presence.",
+    "category": "Ritual",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.69
+  },
+  {
+    "id": "11",
+    "title": "Stretch & Breathe",
+    "description": "A short practice: stretch & breathe to reconnect with presence.",
+    "category": "Ritual",
+    "difficulty": "medium",
+    "isPremium": true,
+    "probability": 0.62
+  },
+  {
+    "id": "12",
+    "title": "Cloud Watching",
+    "description": "A short practice: cloud watching to reconnect with presence.",
+    "category": "Focus",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.55
+  },
+  {
+    "id": "13",
+    "title": "Digital Detox",
+    "description": "A short practice: digital detox to reconnect with presence.",
+    "category": "Movement",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.98
+  },
+  {
+    "id": "14",
+    "title": "Slow Eating",
+    "description": "A short practice: slow eating to reconnect with presence.",
+    "category": "Focus",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.65
+  },
+  {
+    "id": "15",
+    "title": "One-Hour Silence",
+    "description": "A short practice: one-hour silence to reconnect with presence.",
+    "category": "Nature",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.91
+  },
+  {
+    "id": "16",
+    "title": "Walking Meditation",
+    "description": "A short practice: walking meditation to reconnect with presence.",
+    "category": "Detox",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.91
+  },
+  {
+    "id": "17",
+    "title": "Mindful Listening",
+    "description": "A short practice: mindful listening to reconnect with presence.",
+    "category": "Nature",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.72
+  },
+  {
+    "id": "18",
+    "title": "Self-Compassion",
+    "description": "A short practice: self-compassion to reconnect with presence.",
+    "category": "Breathing",
+    "difficulty": "easy",
+    "isPremium": true,
+    "probability": 0.86
+  },
+  {
+    "id": "19",
+    "title": "Letting Go Visualization",
+    "description": "A short practice: letting go visualization to reconnect with presence.",
+    "category": "Breathing",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.68
+  },
+  {
+    "id": "20",
+    "title": "Sunrise Moment",
+    "description": "A short practice: sunrise moment to reconnect with presence.",
+    "category": "Visualization",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.54
+  }
+]
