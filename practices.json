@@ -2,451 +2,541 @@
   {
     "id": "1",
     "title": "Breathe with Awareness",
-    "description": "A short practice: breathe with awareness to reconnect with presence.",
+    "description": "Sit comfortably and breathe normally. Pay attention to each breath going in and out. When your mind wanders, gently return to your breathing.",
     "category": "Breathing",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.95
+  },
+  {
+    "id": "2",
+    "title": "Counting Breaths",
+    "description": "Count each breath from 1 to 10. Count 1 on the inhale, 2 on the exhale, and so on. If you lose count, start over at 1.",
+    "category": "Breathing",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.90
+  },
+  {
+    "id": "3",
+    "title": "Box Breathing",
+    "description": "Breathe in for 4 counts, hold for 4, breathe out for 4, hold empty for 4. Repeat this square pattern 5 times.",
+    "category": "Breathing",
+    "difficulty": "medium",
+    "isPremium": true,
+    "probability": 0.65
+  },
+  {
+    "id": "4",
+    "title": "4-7-8 Breathing",
+    "description": "Breathe in through your nose for 4 counts, hold your breath for 7 counts, then breathe out through your mouth for 8 counts. Repeat 3 times.",
+    "category": "Breathing",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.75
+  },
+  {
+    "id": "5",
+    "title": "Alternate Nostril Breathing",
+    "description": "Use your thumb to close your right nostril, breathe in through the left. Switch: close left nostril with your finger, breathe out through the right. Continue alternating for 5 breaths.",
+    "category": "Breathing",
+    "difficulty": "medium",
+    "isPremium": true,
+    "probability": 0.35
+  },
+  {
+    "id": "6",
+    "title": "One-Minute Pause",
+    "description": "Stop what you're doing for exactly 1 minute. Sit still, breathe normally, and just be. Don't think about your to-do list or check your phone.",
+    "category": "Stillness",
     "difficulty": "easy",
     "isPremium": false,
     "probability": 0.92
   },
   {
-    "id": "2",
-    "title": "Counting Breaths",
-    "description": "A short practice: counting breaths to reconnect with presence.",
-    "category": "Breathing",
+    "id": "7",
+    "title": "5-Minute Stillness",
+    "description": "Sit quietly for 5 minutes without moving. Just breathe and be present. If thoughts come, acknowledge them and let them pass.",
+    "category": "Stillness",
     "difficulty": "easy",
     "isPremium": false,
-    "probability": 0.70
+    "probability": 0.55
   },
   {
-    "id": "3",
-    "title": "Box Breathing",
-    "description": "A short practice: box breathing to reconnect with presence.",
-    "category": "Breathing",
+    "id": "8",
+    "title": "10-Minute Silence",
+    "description": "Find a quiet space and sit in complete silence for 10 minutes. No music, no sounds, just you and the quiet. Focus on your breath if you need an anchor.",
+    "category": "Stillness",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.45
+  },
+  {
+    "id": "9",
+    "title": "Thought Observation",
+    "description": "Watch your thoughts like clouds passing in the sky. Notice each thought, don't judge it, and let it drift away. Don't try to stop thinking, just observe.",
+    "category": "Stillness",
     "difficulty": "medium",
     "isPremium": true,
     "probability": 0.50
   },
   {
-    "id": "4",
-    "title": "4-7-8 Breathing",
-    "description": "A short practice: 4-7-8 breathing to reconnect with presence.",
-    "category": "Breathing",
-    "difficulty": "medium",
+    "id": "10",
+    "title": "Body Scan",
+    "description": "Start at your toes and slowly move your attention up your body. Notice how each part feels - tense, relaxed, warm, cool. End at the top of your head.",
+    "category": "Stillness",
+    "difficulty": "easy",
     "isPremium": false,
     "probability": 0.85
   },
   {
-    "id": "5",
-    "title": "Alternate Nostril Breathing",
-    "description": "A short practice: alternate nostril breathing to reconnect with presence.",
-    "category": "Breathing",
+    "id": "11",
+    "title": "Candle Gazing",
+    "description": "Light a candle and stare softly at the flame for 2 minutes. Keep your eyes relaxed and don't blink too much. When your mind wanders, return to the flame.",
+    "category": "Focus",
     "difficulty": "medium",
-    "isPremium": true,
+    "isPremium": false,
     "probability": 0.40
   },
   {
-    "id": "6",
-    "title": "One-Minute Pause",
-    "description": "A short practice: one-minute pause to reconnect with presence.",
-    "category": "Stillness",
+    "id": "12",
+    "title": "Cloud Watching",
+    "description": "Go outside or to a window. Watch the clouds for 3 minutes. Notice their shapes, how they move, and how they change. Don't name them, just observe.",
+    "category": "Focus",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.70
+  },
+  {
+    "id": "13",
+    "title": "Label Your Thoughts",
+    "description": "When a thought pops up, give it a simple label like 'planning,' 'worrying,' or 'remembering.' Don't judge the thought, just name it and let it go.",
+    "category": "Focus",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.88
+  },
+  {
+    "id": "14",
+    "title": "Name Your Feelings",
+    "description": "Ask yourself: 'What am I feeling right now?' Name the emotion - happy, sad, anxious, calm. Don't try to change it, just acknowledge it.",
+    "category": "Focus",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.85
+  },
+  {
+    "id": "15",
+    "title": "Mantra Repetition",
+    "description": "Choose a simple word like 'peace,' 'calm,' or 'breathe.' Repeat it quietly to yourself 20 times. Let the word fill your mind.",
+    "category": "Focus",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.92
+  },
+  {
+    "id": "16",
+    "title": "Mindful Coloring",
+    "description": "Draw or color something simple for 5 minutes. Focus on the movement of your hand, the colors you choose, and the lines you make. Stay present with the process.",
+    "category": "Focus",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.35
+  },
+  {
+    "id": "17",
+    "title": "Loving-Kindness",
+    "description": "Think of someone you care about. Send them good wishes: 'May you be happy, may you be safe, may you be at peace.' Feel the warmth in your heart.",
+    "category": "Compassion",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.65
+  },
+  {
+    "id": "18",
+    "title": "Self-Compassion",
+    "description": "Talk to yourself like you would to a good friend. If you're having a hard time, say: 'This is difficult, but I'm not alone. I'm doing my best.'",
+    "category": "Compassion",
+    "difficulty": "easy",
+    "isPremium": true,
+    "probability": 0.90
+  },
+  {
+    "id": "19",
+    "title": "Hand on Heart",
+    "description": "Place your hand on your heart and feel it beating. Take 5 slow breaths. This is your body keeping you alive - say 'thank you' to your heart.",
+    "category": "Compassion",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.95
+  },
+  {
+    "id": "20",
+    "title": "Compassionate Breathing",
+    "description": "Breathe in kindness for yourself, breathe out stress and tension. With each breath, imagine you're giving yourself the care you need.",
+    "category": "Compassion",
+    "difficulty": "medium",
+    "isPremium": true,
+    "probability": 0.70
+  },
+  {
+    "id": "21",
+    "title": "Walking Meditation",
+    "description": "Walk very slowly for 3 minutes. Feel each step - heel, then toe. Notice how your weight shifts. If you hurry, slow down even more.",
+    "category": "Movement",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.95
+  },
+  {
+    "id": "22",
+    "title": "Stretch & Breathe",
+    "description": "Reach your arms above your head and breathe in deeply. Slowly lower them while breathing out. Repeat 5 times, moving with your breath.",
+    "category": "Movement",
+    "difficulty": "medium",
+    "isPremium": true,
+    "probability": 0.80
+  },
+  {
+    "id": "23",
+    "title": "Mindful Yoga",
+    "description": "Do 3 simple yoga poses very slowly - child's pose, cat-cow, or downward dog. Hold each for 30 seconds and breathe deeply.",
+    "category": "Movement",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.45
+  },
+  {
+    "id": "24",
+    "title": "Mindful Driving",
+    "description": "While driving, feel your hands on the steering wheel. Notice the seat against your back. Take 3 conscious breaths at red lights. Stay present, not rushed.",
+    "category": "Movement",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.60
+  },
+  {
+    "id": "25",
+    "title": "Digital Detox",
+    "description": "Turn off all screens for 10 minutes. No phone, computer, or TV. Sit with yourself and notice what it feels like to be disconnected from technology.",
+    "category": "Detox",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.95
+  },
+  {
+    "id": "26",
+    "title": "Mind Dump Journal",
+    "description": "Write down everything on your mind for 3 minutes. Don't worry about grammar or making sense. Just get all your thoughts out on paper.",
+    "category": "Detox",
     "difficulty": "easy",
     "isPremium": false,
     "probability": 0.75
   },
   {
-    "id": "7",
-    "title": "5-Minute Stillness",
-    "description": "A short practice: 5-minute stillness to reconnect with presence.",
-    "category": "Stillness",
-    "difficulty": "easy",
-    "isPremium": false,
-    "probability": 0.40
-  },
-  {
-    "id": "8",
-    "title": "10-Minute Silence",
-    "description": "A short practice: 10-minute silence to reconnect with presence.",
-    "category": "Stillness",
-    "difficulty": "medium",
-    "isPremium": false,
-    "probability": 0.80
-  },
-  {
-    "id": "9",
-    "title": "Thought Observation",
-    "description": "A short practice: thought observation to reconnect with presence.",
-    "category": "Stillness",
-    "difficulty": "medium",
-    "isPremium": true,
-    "probability": 0.60
-  },
-  {
-    "id": "10",
-    "title": "Body Scan",
-    "description": "A short practice: body scan to reconnect with presence.",
-    "category": "Stillness",
-    "difficulty": "easy",
-    "isPremium": false,
-    "probability": 0.72
-  },
-  {
-    "id": "11",
-    "title": "Candle Gazing",
-    "description": "A short practice: candle gazing to reconnect with presence.",
-    "category": "Focus",
-    "difficulty": "medium",
-    "isPremium": false,
-    "probability": 0.34
-  },
-  {
-    "id": "12",
-    "title": "Cloud Watching",
-    "description": "A short practice: cloud watching to reconnect with presence.",
-    "category": "Focus",
-    "difficulty": "medium",
-    "isPremium": false,
-    "probability": 0.55
-  },
-  {
-    "id": "13",
-    "title": "Label Your Thoughts",
-    "description": "A short practice: label your thoughts to reconnect with presence.",
-    "category": "Focus",
-    "difficulty": "easy",
-    "isPremium": false,
-    "probability": 0.50
-  },
-  {
-    "id": "14",
-    "title": "Name Your Feelings",
-    "description": "A short practice: name your feelings to reconnect with presence.",
-    "category": "Focus",
-    "difficulty": "easy",
-    "isPremium": false,
-    "probability": 0.45
-  },
-  {
-    "id": "15",
-    "title": "Mantra Repetition",
-    "description": "A short practice: mantra repetition to reconnect with presence.",
-    "category": "Focus",
-    "difficulty": "easy",
-    "isPremium": false,
-    "probability": 0.82
-  },
-  {
-    "id": "16",
-    "title": "Mindful Coloring",
-    "description": "A short practice: mindful coloring to reconnect with presence.",
-    "category": "Focus",
-    "difficulty": "medium",
-    "isPremium": false,
-    "probability": 0.50
-  },
-  {
-    "id": "17",
-    "title": "Loving-Kindness",
-    "description": "A short practice: loving-kindness to reconnect with presence.",
-    "category": "Compassion",
-    "difficulty": "medium",
-    "isPremium": false,
-    "probability": 0.36
-  },
-  {
-    "id": "18",
-    "title": "Self-Compassion",
-    "description": "A short practice: self-compassion to reconnect with presence.",
-    "category": "Compassion",
-    "difficulty": "easy",
-    "isPremium": true,
-    "probability": 0.86
-  },
-  {
-    "id": "19",
-    "title": "Hand on Heart",
-    "description": "A short practice: hand on heart to reconnect with presence.",
-    "category": "Compassion",
-    "difficulty": "easy",
-    "isPremium": false,
-    "probability": 0.65
-  },
-  {
-    "id": "20",
-    "title": "Compassionate Breathing",
-    "description": "A short practice: compassionate breathing to reconnect with presence.",
-    "category": "Compassion",
-    "difficulty": "medium",
-    "isPremium": true,
-    "probability": 0.45
-  },
-  {
-    "id": "21",
-    "title": "Walking Meditation",
-    "description": "A short practice: walking meditation to reconnect with presence.",
-    "category": "Movement",
-    "difficulty": "easy",
-    "isPremium": false,
-    "probability": 0.91
-  },
-  {
-    "id": "22",
-    "title": "Stretch & Breathe",
-    "description": "A short practice: stretch & breathe to reconnect with presence.",
-    "category": "Movement",
-    "difficulty": "medium",
-    "isPremium": true,
-    "probability": 0.62
-  },
-  {
-    "id": "23",
-    "title": "Mindful Yoga",
-    "description": "A short practice: mindful yoga to reconnect with presence.",
-    "category": "Movement",
-    "difficulty": "medium",
-    "isPremium": false,
-    "probability": 0.50
-  },
-  {
-    "id": "24",
-    "title": "Mindful Driving",
-    "description": "A short practice: mindful driving to reconnect with presence.",
-    "category": "Movement",
-    "difficulty": "medium",
-    "isPremium": false,
-    "probability": 0.54
-  },
-  {
-    "id": "25",
-    "title": "Digital Detox",
-    "description": "A short practice: digital detox to reconnect with presence.",
-    "category": "Detox",
-    "difficulty": "medium",
-    "isPremium": false,
-    "probability": 0.98
-  },
-  {
-    "id": "26",
-    "title": "Mind Dump Journal",
-    "description": "A short practice: mind dump journal to reconnect with presence.",
-    "category": "Detox",
-    "difficulty": "easy",
-    "isPremium": false,
-    "probability": 0.60
-  },
-  {
     "id": "27",
     "title": "Mindful Cleaning",
-    "description": "A short practice: mindful cleaning to reconnect with presence.",
+    "description": "Clean one small area slowly and carefully. Feel the cloth in your hand, notice dust being removed. Turn cleaning into a meditative act.",
     "category": "Detox",
     "difficulty": "medium",
     "isPremium": false,
-    "probability": 0.80
+    "probability": 0.70
   },
   {
     "id": "28",
     "title": "Mindful Shower",
-    "description": "A short practice: mindful shower to reconnect with presence.",
+    "description": "In the shower, feel the water temperature on your skin. Notice the sound of water, the smell of soap. Don't rush - be present with the sensations.",
     "category": "Ritual",
     "difficulty": "medium",
     "isPremium": false,
-    "probability": 0.69
+    "probability": 0.85
   },
   {
     "id": "29",
     "title": "Silent Tea Ritual",
-    "description": "A short practice: silent tea ritual to reconnect with presence.",
+    "description": "Make tea or coffee in complete silence. Feel the warm cup in your hands. Sip slowly and taste each sip fully. No talking, no distractions.",
     "category": "Ritual",
     "difficulty": "easy",
     "isPremium": true,
-    "probability": 0.98
+    "probability": 0.92
   },
   {
     "id": "30",
     "title": "Slow Eating",
-    "description": "A short practice: slow eating to reconnect with presence.",
+    "description": "Eat one piece of food very slowly. Chew each bite 20 times. Notice the texture, taste, and temperature. Put your fork down between bites.",
     "category": "Ritual",
     "difficulty": "medium",
     "isPremium": false,
-    "probability": 0.65
+    "probability": 0.80
   },
   {
     "id": "31",
     "title": "Mindful Brushing",
-    "description": "A short practice: mindful brushing to reconnect with presence.",
+    "description": "Brush your teeth slowly and deliberately. Feel the bristles on each tooth. Notice the taste of toothpaste and the movement of your arm.",
     "category": "Ritual",
     "difficulty": "easy",
     "isPremium": false,
-    "probability": 0.50
+    "probability": 0.88
   },
   {
     "id": "32",
     "title": "Mindful Morning",
-    "description": "A short practice: mindful morning to reconnect with presence.",
+    "description": "Before checking your phone, take 5 deep breaths. Set an intention for your day. Notice how your body feels waking up.",
     "category": "Ritual",
     "difficulty": "easy",
     "isPremium": false,
-    "probability": 0.77
+    "probability": 0.95
   },
   {
     "id": "33",
     "title": "Nature Walk",
-    "description": "A short practice: nature walk to reconnect with presence.",
+    "description": "Walk outside for 5 minutes. Look at trees, flowers, or sky. Feel the air on your skin. Don't listen to music or talk - just be with nature.",
     "category": "Nature",
     "difficulty": "medium",
     "isPremium": false,
-    "probability": 0.79
+    "probability": 0.85
   },
   {
     "id": "34",
     "title": "Nature Listening",
-    "description": "A short practice: nature listening to reconnect with presence.",
+    "description": "Sit outside and close your eyes for 3 minutes. Listen to birds, wind, leaves rustling. Try to identify 5 different natural sounds.",
     "category": "Nature",
     "difficulty": "medium",
     "isPremium": false,
-    "probability": 0.72
+    "probability": 0.75
   },
   {
     "id": "35",
     "title": "Observe a Leaf",
-    "description": "A short practice: observe a leaf to reconnect with presence.",
+    "description": "Find a leaf and study it for 2 minutes. Look at its shape, color, veins, and texture. Hold it gently and notice its weight and feel.",
     "category": "Nature",
     "difficulty": "easy",
     "isPremium": false,
-    "probability": 0.55
+    "probability": 0.70
   },
   {
     "id": "36",
     "title": "Star Gazing",
-    "description": "A short practice: star gazing to reconnect with presence.",
+    "description": "Look up at the night sky for 3 minutes. Don't try to identify constellations, just gaze. Feel how small and connected you are to the universe.",
     "category": "Nature",
     "difficulty": "easy",
     "isPremium": false,
-    "probability": 0.63
+    "probability": 0.65
   },
   {
     "id": "37",
     "title": "Grounding in Nature",
-    "description": "A short practice: grounding in nature to reconnect with presence.",
+    "description": "Stand barefoot on grass, sand, or earth for 2 minutes. Feel the ground beneath your feet. Take deep breaths and imagine roots growing from your feet.",
     "category": "Nature",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.75
+  },
+  {
+    "id": "38",
+    "title": "Letting Go Visualization",
+    "description": "Imagine holding a balloon with your worries inside. See yourself releasing the balloon and watching it float away into the sky. Feel the relief.",
+    "category": "Visualization",
     "difficulty": "easy",
     "isPremium": false,
     "probability": 0.80
   },
   {
-    "id": "38",
-    "title": "Letting Go Visualization",
-    "description": "A short practice: letting go visualization to reconnect with presence.",
-    "category": "Visualization",
-    "difficulty": "easy",
-    "isPremium": false,
-    "probability": 0.68
-  },
-  {
     "id": "39",
     "title": "Sunrise Moment",
-    "description": "A short practice: sunrise moment to reconnect with presence.",
+    "description": "Picture a beautiful sunrise in your mind. See the colors - orange, pink, gold. Feel the warmth on your face. Breathe in this peaceful energy.",
     "category": "Visualization",
     "difficulty": "easy",
     "isPremium": false,
-    "probability": 0.54
+    "probability": 0.75
   },
   {
     "id": "40",
     "title": "Calm Place Visualization",
-    "description": "A short practice: calm place visualization to reconnect with presence.",
+    "description": "Close your eyes and imagine your most peaceful place - a beach, forest, or cozy room. See the details, hear the sounds, feel the calm.",
     "category": "Visualization",
     "difficulty": "easy",
     "isPremium": false,
-    "probability": 0.60
+    "probability": 0.85
   },
   {
     "id": "41",
     "title": "Healing Light Visualization",
-    "description": "A short practice: healing light visualization to reconnect with presence.",
+    "description": "Imagine a warm, golden light flowing through your body. Start at your head and let it move down, healing and relaxing every part of you.",
     "category": "Visualization",
     "difficulty": "medium",
     "isPremium": true,
-    "probability": 0.46
+    "probability": 0.60
   },
   {
     "id": "42",
     "title": "Gratitude Check",
-    "description": "A short practice: gratitude check to reconnect with presence.",
+    "description": "Stop and ask: 'What am I grateful for right now?' Name 5 things, from big to small - your health, a warm cup, a text from a friend.",
     "category": "Gratitude",
     "difficulty": "medium",
     "isPremium": true,
-    "probability": 0.63
+    "probability": 0.90
   },
   {
     "id": "43",
     "title": "Three Good Things",
-    "description": "A short practice: three good things to reconnect with presence.",
+    "description": "Think of 3 good things that happened today, no matter how small. A smile, good weather, or a tasty meal. Feel thankful for each one.",
     "category": "Gratitude",
     "difficulty": "easy",
     "isPremium": false,
-    "probability": 0.50
+    "probability": 0.92
   },
   {
     "id": "44",
     "title": "Gratitude Journal",
-    "description": "A short practice: gratitude journal to reconnect with presence.",
+    "description": "Write down 3 things you're grateful for today. Be specific - instead of 'family,' write 'my sister's funny text message.'",
     "category": "Gratitude",
     "difficulty": "medium",
     "isPremium": false,
-    "probability": 0.55
+    "probability": 0.70
   },
   {
     "id": "45",
     "title": "Thank You Note",
-    "description": "A short practice: thank you note to reconnect with presence.",
+    "description": "Write a short thank you message to someone - a text, email, or note. Tell them exactly what they did that you appreciate.",
     "category": "Gratitude",
     "difficulty": "medium",
     "isPremium": false,
-    "probability": 0.40
+    "probability": 0.50
   },
   {
     "id": "46",
     "title": "Five Senses Scan",
-    "description": "A short practice: five senses scan to reconnect with presence.",
+    "description": "Name 5 things you see, 4 things you hear, 3 things you feel, 2 things you smell, and 1 thing you taste. Go slowly through each sense.",
+    "category": "Senses",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.95
+  },
+  {
+    "id": "47",
+    "title": "Mindful Listening",
+    "description": "Close your eyes for 2 minutes and just listen. Don't label sounds as good or bad. Notice close sounds and distant sounds.",
     "category": "Senses",
     "difficulty": "easy",
     "isPremium": false,
     "probability": 0.90
   },
   {
-    "id": "47",
-    "title": "Mindful Listening",
-    "description": "A short practice: mindful listening to reconnect with presence.",
-    "category": "Senses",
-    "difficulty": "easy",
-    "isPremium": false,
-    "probability": 0.72
-  },
-  {
     "id": "48",
     "title": "Mindful Seeing",
-    "description": "A short practice: mindful seeing to reconnect with presence.",
+    "description": "Look around and really see your surroundings. Notice colors, shapes, light and shadows. Look at familiar things as if seeing them for the first time.",
     "category": "Senses",
     "difficulty": "easy",
     "isPremium": false,
-    "probability": 0.60
+    "probability": 0.88
   },
   {
     "id": "49",
     "title": "Body Contact Check",
-    "description": "A short practice: body contact check to reconnect with presence.",
+    "description": "Notice where your body touches things - your feet in shoes, back against chair, clothes on skin. Feel these contact points for 1 minute.",
     "category": "Senses",
     "difficulty": "easy",
     "isPremium": false,
-    "probability": 0.55
+    "probability": 0.90
   },
   {
     "id": "50",
     "title": "Mindful Music",
-    "description": "A short practice: mindful music to reconnect with presence.",
+    "description": "Play one song and listen to it completely. Don't multitask. Notice instruments, rhythm, and how the music makes you feel.",
     "category": "Senses",
     "difficulty": "easy",
     "isPremium": false,
-    "probability": 0.78
+    "probability": 0.80
+  },
+  {
+    "id": "51",
+    "title": "3-Breath Reset",
+    "description": "Take 3 slow, deep breaths. Breathe in for 4 counts, hold for 2, breathe out for 6. Feel your body relax with each exhale.",
+    "category": "Breathing",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.95
+  },
+  {
+    "id": "52",
+    "title": "Phone Down Moment",
+    "description": "Put your phone face down for 2 minutes. Sit quietly and notice what you hear, feel, and see around you without any distractions.",
+    "category": "Detox",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.88
+  },
+  {
+    "id": "53",
+    "title": "Grateful Right Now",
+    "description": "Look around and find 3 things you're grateful for in this exact moment. Say 'thank you' quietly for each one.",
+    "category": "Gratitude",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.92
+  },
+  {
+    "id": "54",
+    "title": "Feet on Ground",
+    "description": "Feel your feet touching the ground. Press them down gently and notice the contact. Take 5 breaths while staying connected to this feeling.",
+    "category": "Senses",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.85
+  },
+  {
+    "id": "55",
+    "title": "Kind Words to Me",
+    "description": "Place your hand on your heart. Say to yourself: 'I am doing my best. I am enough. I am worthy of kindness.' Mean it.",
+    "category": "Compassion",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.90
+  },
+  {
+    "id": "56",
+    "title": "Window Gaze",
+    "description": "Look out any window for 1 minute. Don't think about tasks or problems. Just watch what you see - sky, trees, people, cars.",
+    "category": "Focus",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.80
+  },
+  {
+    "id": "57",
+    "title": "Slow Sip Practice",
+    "description": "Take any drink and sip it very slowly. Feel the temperature, taste, and texture. Make this one sip last 30 seconds.",
+    "category": "Ritual",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.75
+  },
+  {
+    "id": "58",
+    "title": "Shoulder Drop",
+    "description": "Lift your shoulders up to your ears, hold for 3 seconds, then let them drop. Do this 3 times and notice how it feels.",
+    "category": "Movement",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.88
+  },
+  {
+    "id": "59",
+    "title": "One Thing Focus",
+    "description": "Pick one object near you. Look at it for 1 minute. Notice its color, shape, texture, and shadows. When your mind wanders, come back to the object.",
+    "category": "Focus",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.70
+  },
+  {
+    "id": "60",
+    "title": "Belly Breathing",
+    "description": "Put one hand on your chest, one on your belly. Breathe so only the bottom hand moves. Take 5 breaths this way, slowly and gently.",
+    "category": "Breathing",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.85
   }
 ]
