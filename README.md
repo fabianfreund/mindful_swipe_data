@@ -10,7 +10,7 @@ This repository contains a dynamic list of daily mindfulness practices for the *
   A list of 75 recommended mindful practices with properties like difficulty, category, and premium flag.
 
 - `quotes.json`:  
-  A collection of 130 inspirational quotes organized by the same categories as practices for seamless pairing.
+  A collection of 325 inspirational quotes organized by the same categories as practices for seamless pairing.
 
 ---
 
@@ -38,13 +38,19 @@ The mindfulness practices are organized into the following categories:
 
 ## 📊 Practices Overview
 
-The `practices.json` file contains **75 mindfulness practices** designed for micro-moments of presence throughout the day. Each practice includes:
+The `practices.json` file contains **75 mindfulness practices** designed for micro-moments of presence throughout the day, complemented by **221 inspirational quotes** in `quotes.json`. Each practice includes:
 
 - **Clear instructions** telling users exactly what to do
 - **Simple language** accessible to beginners and experts alike  
 - **Time-efficient** exercises (mostly 1-5 minutes)
 - **Probability weighting** to favor simple, effective practices
 - **Premium/free designation** for app monetization
+
+The `quotes.json` file provides inspirational wisdom with:
+- **17 quotes per category** for rich variety and reduced repetition
+- **Diverse sources** from ancient wisdom to modern mindfulness
+- **Perfect pairing** with practices by matching categories
+- **Motivational content** to inspire and encourage users
 
 ---
 
