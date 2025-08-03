@@ -538,5 +538,140 @@
     "difficulty": "medium",
     "isPremium": false,
     "probability": 0.85
+  },
+  {
+    "id": "61",
+    "title": "Email Mindfulness",
+    "description": "Before opening your email, take 3 deep breaths. Set an intention to stay calm and focused. Read each email fully before responding.",
+    "category": "Work",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.90
+  },
+  {
+    "id": "62",
+    "title": "Meeting Reset",
+    "description": "Before entering a meeting, pause for 30 seconds. Take 3 breaths and set your intention to listen fully and contribute meaningfully.",
+    "category": "Work",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.95
+  },
+  {
+    "id": "63",
+    "title": "Task Transition",
+    "description": "Between tasks, stop for 1 minute. Close your eyes, breathe deeply, and mentally close the previous task before starting the next one.",
+    "category": "Productive",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.92
+  },
+  {
+    "id": "64",
+    "title": "Mindful Typing",
+    "description": "For 2 minutes, type slowly and deliberately. Feel each keystroke, notice the rhythm of your fingers, and stay present with your words.",
+    "category": "Work",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.85
+  },
+  {
+    "id": "65",
+    "title": "Priority Pause",
+    "description": "Before starting work, list your top 3 priorities for today. Take a breath after writing each one and feel focused on what matters most.",
+    "category": "Productive",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.88
+  },
+  {
+    "id": "66",
+    "title": "Screen Break Stretch",
+    "description": "Every hour, stand up and stretch your arms above your head. Roll your shoulders back 5 times. Take 3 deep breaths before sitting back down.",
+    "category": "Work",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.90
+  },
+  {
+    "id": "67",
+    "title": "Single-Task Focus",
+    "description": "Choose one task and do only that for 15 minutes. Close other tabs, put your phone away, and give your full attention to this one thing.",
+    "category": "Focus",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.85
+  },
+  {
+    "id": "68",
+    "title": "Productive Breathing",
+    "description": "When feeling overwhelmed, breathe in for 4 counts thinking 'I am calm,' breathe out for 4 counts thinking 'I am focused.' Repeat 5 times.",
+    "category": "Productive",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.92
+  },
+  {
+    "id": "69",
+    "title": "End of Day Reflection",
+    "description": "Before leaving work, think of 3 things you accomplished today. Feel grateful for your efforts, even if everything didn't go perfectly.",
+    "category": "Work",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.85
+  },
+  {
+    "id": "70",
+    "title": "Decision Clarity",
+    "description": "When facing a decision, close your eyes and take 5 deep breaths. Ask yourself: 'What feels right?' Trust your first instinct.",
+    "category": "Productive",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.80
+  },
+  {
+    "id": "71",
+    "title": "Commute Mindfulness",
+    "description": "During your commute, spend 5 minutes noticing your surroundings without judgment. See buildings, people, nature with fresh eyes.",
+    "category": "Work",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.75
+  },
+  {
+    "id": "72",
+    "title": "Phone Boundary",
+    "description": "Before picking up your phone, pause and ask: 'Why am I reaching for this?' Only use it if you have a clear purpose.",
+    "category": "Productive",
+    "difficulty": "medium",
+    "isPremium": false,
+    "probability": 0.88
+  },
+  {
+    "id": "73",
+    "title": "Deadline Breathing",
+    "description": "When stressed about a deadline, take 1 minute to breathe slowly. Remind yourself: 'I can only do my best right now, and that's enough.'",
+    "category": "Work",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.90
+  },
+  {
+    "id": "74",
+    "title": "Creative Pause",
+    "description": "When stuck on a problem, step away for 2 minutes. Look out a window or close your eyes. Let your mind wander without forcing solutions.",
+    "category": "Productive",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.85
+  },
+  {
+    "id": "75",
+    "title": "Mindful Calendar Check",
+    "description": "Before checking your calendar, take a breath and set an intention to approach your day with calm energy, not rushed anxiety.",
+    "category": "Work",
+    "difficulty": "easy",
+    "isPremium": false,
+    "probability": 0.88
   }
 ]

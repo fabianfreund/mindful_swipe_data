@@ -1,0 +1,652 @@
+[
+  {
+    "id": "1",
+    "quote": "Breath is the bridge which connects life to consciousness, which unites your body to your thoughts.",
+    "category": "Breathing"
+  },
+  {
+    "id": "2",
+    "quote": "Breathe in peace, breathe out stress.",
+    "category": "Breathing"
+  },
+  {
+    "id": "3",
+    "quote": "Your breath is your anchor to the present moment.",
+    "category": "Breathing"
+  },
+  {
+    "id": "4",
+    "quote": "Every breath is a new beginning.",
+    "category": "Breathing"
+  },
+  {
+    "id": "5",
+    "quote": "The rhythm of the body, the melody of the mind, and the harmony of the soul is hidden in the dance of breath.",
+    "category": "Breathing"
+  },
+  {
+    "id": "6",
+    "quote": "Inhale courage, exhale fear.",
+    "category": "Breathing"
+  },
+  {
+    "id": "7",
+    "quote": "Your breath is always with you, a constant reminder that you are alive and present.",
+    "category": "Breathing"
+  },
+  {
+    "id": "8",
+    "quote": "Deep breathing is our nervous system's love language.",
+    "category": "Breathing"
+  },
+  {
+    "id": "9",
+    "quote": "When you breathe, you inspire. When you do not breathe, you expire.",
+    "category": "Breathing"
+  },
+  {
+    "id": "10",
+    "quote": "Breath is life. Life is breath. Make each one count.",
+    "category": "Breathing"
+  },
+  {
+    "id": "11",
+    "quote": "In stillness, the world resets itself.",
+    "category": "Stillness"
+  },
+  {
+    "id": "12",
+    "quote": "Be still and know that you are enough.",
+    "category": "Stillness"
+  },
+  {
+    "id": "13",
+    "quote": "Silence is not empty, it's full of answers.",
+    "category": "Stillness"
+  },
+  {
+    "id": "14",
+    "quote": "In the depths of silence, you will find your truest self.",
+    "category": "Stillness"
+  },
+  {
+    "id": "15",
+    "quote": "Stillness is where creativity and solutions are born.",
+    "category": "Stillness"
+  },
+  {
+    "id": "16",
+    "quote": "The quieter you become, the more you can hear.",
+    "category": "Stillness"
+  },
+  {
+    "id": "17",
+    "quote": "Peace comes from within. Do not seek it without.",
+    "category": "Stillness"
+  },
+  {
+    "id": "18",
+    "quote": "In stillness lies the power to transform.",
+    "category": "Stillness"
+  },
+  {
+    "id": "19",
+    "quote": "Your calm mind is the ultimate weapon against your challenges.",
+    "category": "Stillness"
+  },
+  {
+    "id": "20",
+    "quote": "Be still. Listen. The world is trying to tell you something.",
+    "category": "Stillness"
+  },
+  {
+    "id": "21",
+    "quote": "Where focus goes, energy flows.",
+    "category": "Focus"
+  },
+  {
+    "id": "22",
+    "quote": "The successful warrior is the average person with laser-like focus.",
+    "category": "Focus"
+  },
+  {
+    "id": "23",
+    "quote": "Concentrate all your thoughts upon the work at hand.",
+    "category": "Focus"
+  },
+  {
+    "id": "24",
+    "quote": "Focus is a matter of deciding what things you're not going to do.",
+    "category": "Focus"
+  },
+  {
+    "id": "25",
+    "quote": "Your attention is your most valuable currency.",
+    "category": "Focus"
+  },
+  {
+    "id": "26",
+    "quote": "Single-tasking is the new superpower.",
+    "category": "Focus"
+  },
+  {
+    "id": "27",
+    "quote": "The art of being wise is knowing what to overlook.",
+    "category": "Focus"
+  },
+  {
+    "id": "28",
+    "quote": "Clarity comes from focus, not from thinking harder.",
+    "category": "Focus"
+  },
+  {
+    "id": "29",
+    "quote": "What gets attention gets results.",
+    "category": "Focus"
+  },
+  {
+    "id": "30",
+    "quote": "Focus on the present moment. It's the only one you can control.",
+    "category": "Focus"
+  },
+  {
+    "id": "31",
+    "quote": "Be kind to yourself. You're doing better than you think.",
+    "category": "Compassion"
+  },
+  {
+    "id": "32",
+    "quote": "Self-compassion is simply giving the same kindness to ourselves that we would give to others.",
+    "category": "Compassion"
+  },
+  {
+    "id": "33",
+    "quote": "You deserve your own love and affection.",
+    "category": "Compassion"
+  },
+  {
+    "id": "34",
+    "quote": "Kindness is a language which the deaf can hear and the blind can see.",
+    "category": "Compassion"
+  },
+  {
+    "id": "35",
+    "quote": "Love yourself first and everything else falls into line.",
+    "category": "Compassion"
+  },
+  {
+    "id": "36",
+    "quote": "Compassion is not a relationship between the healer and the wounded. It's a relationship between equals.",
+    "category": "Compassion"
+  },
+  {
+    "id": "37",
+    "quote": "Talk to yourself like you would to someone you love.",
+    "category": "Compassion"
+  },
+  {
+    "id": "38",
+    "quote": "Your heart is your home. Make it a welcoming place.",
+    "category": "Compassion"
+  },
+  {
+    "id": "39",
+    "quote": "Be gentle with yourself. You are a child of the universe.",
+    "category": "Compassion"
+  },
+  {
+    "id": "40",
+    "quote": "Self-love is not selfish; you cannot truly love another until you know how to love yourself.",
+    "category": "Compassion"
+  },
+  {
+    "id": "41",
+    "quote": "Movement is a medicine for creating change in a person's physical, emotional, and mental states.",
+    "category": "Movement"
+  },
+  {
+    "id": "42",
+    "quote": "Every step is a victory when taken with intention.",
+    "category": "Movement"
+  },
+  {
+    "id": "43",
+    "quote": "Your body is precious. It is your vehicle for awakening.",
+    "category": "Movement"
+  },
+  {
+    "id": "44",
+    "quote": "Move your body, free your mind.",
+    "category": "Movement"
+  },
+  {
+    "id": "45",
+    "quote": "Walking meditation is meditation in action.",
+    "category": "Movement"
+  },
+  {
+    "id": "46",
+    "quote": "The body achieves what the mind believes.",
+    "category": "Movement"
+  },
+  {
+    "id": "47",
+    "quote": "Movement is life. Life is movement. Honor both.",
+    "category": "Movement"
+  },
+  {
+    "id": "48",
+    "quote": "Stretch your body, stretch your possibilities.",
+    "category": "Movement"
+  },
+  {
+    "id": "49",
+    "quote": "In every walk with nature, one receives far more than they seek.",
+    "category": "Movement"
+  },
+  {
+    "id": "50",
+    "quote": "Listen to your body. It knows what it needs.",
+    "category": "Movement"
+  },
+  {
+    "id": "51",
+    "quote": "Digital detox: Disconnect to reconnect.",
+    "category": "Detox"
+  },
+  {
+    "id": "52",
+    "quote": "Sometimes you need to unplug to recharge.",
+    "category": "Detox"
+  },
+  {
+    "id": "53",
+    "quote": "Clear your mind, clear your space, clear your life.",
+    "category": "Detox"
+  },
+  {
+    "id": "54",
+    "quote": "The most productive thing you can do is rest.",
+    "category": "Detox"
+  },
+  {
+    "id": "55",
+    "quote": "Declutter your mind. Simplify your life.",
+    "category": "Detox"
+  },
+  {
+    "id": "56",
+    "quote": "Let go of what doesn't serve you.",
+    "category": "Detox"
+  },
+  {
+    "id": "57",
+    "quote": "Your phone should serve you, not the other way around.",
+    "category": "Detox"
+  },
+  {
+    "id": "58",
+    "quote": "Clean space, clear mind, calm heart.",
+    "category": "Detox"
+  },
+  {
+    "id": "59",
+    "quote": "Release what weighs you down.",
+    "category": "Detox"
+  },
+  {
+    "id": "60",
+    "quote": "Simplicity is the ultimate sophistication.",
+    "category": "Detox"
+  },
+  {
+    "id": "61",
+    "quote": "How we do anything is how we do everything.",
+    "category": "Ritual"
+  },
+  {
+    "id": "62",
+    "quote": "Sacred rituals turn ordinary moments into extraordinary experiences.",
+    "category": "Ritual"
+  },
+  {
+    "id": "63",
+    "quote": "Begin each day as if it were on purpose.",
+    "category": "Ritual"
+  },
+  {
+    "id": "64",
+    "quote": "Small daily habits lead to big life changes.",
+    "category": "Ritual"
+  },
+  {
+    "id": "65",
+    "quote": "Mindful rituals are the foundation of a meaningful life.",
+    "category": "Ritual"
+  },
+  {
+    "id": "66",
+    "quote": "Every morning is a fresh start, a new ritual.",
+    "category": "Ritual"
+  },
+  {
+    "id": "67",
+    "quote": "The way you do small things is the way you do big things.",
+    "category": "Ritual"
+  },
+  {
+    "id": "68",
+    "quote": "Create rituals that honor your best self.",
+    "category": "Ritual"
+  },
+  {
+    "id": "69",
+    "quote": "Routine is not about restriction; it's about freedom through structure.",
+    "category": "Ritual"
+  },
+  {
+    "id": "70",
+    "quote": "Turn everyday moments into mindful ceremonies.",
+    "category": "Ritual"
+  },
+  {
+    "id": "71",
+    "quote": "In every walk with nature, one receives far more than they seek.",
+    "category": "Nature"
+  },
+  {
+    "id": "72",
+    "quote": "Nature does not hurry, yet everything is accomplished.",
+    "category": "Nature"
+  },
+  {
+    "id": "73",
+    "quote": "Look deep into nature, and then you will understand everything better.",
+    "category": "Nature"
+  },
+  {
+    "id": "74",
+    "quote": "The earth has music for those who listen.",
+    "category": "Nature"
+  },
+  {
+    "id": "75",
+    "quote": "Adopt the pace of nature: her secret is patience.",
+    "category": "Nature"
+  },
+  {
+    "id": "76",
+    "quote": "Nature is not a place to visit. It is home.",
+    "category": "Nature"
+  },
+  {
+    "id": "77",
+    "quote": "Sky above, earth below, peace within.",
+    "category": "Nature"
+  },
+  {
+    "id": "78",
+    "quote": "Breathe in the wild air.",
+    "category": "Nature"
+  },
+  {
+    "id": "79",
+    "quote": "In the woods, we return to reason and faith.",
+    "category": "Nature"
+  },
+  {
+    "id": "80",
+    "quote": "Nature is the art of God.",
+    "category": "Nature"
+  },
+  {
+    "id": "81",
+    "quote": "Visualization is daydreaming with a purpose.",
+    "category": "Visualization"
+  },
+  {
+    "id": "82",
+    "quote": "See it, believe it, achieve it.",
+    "category": "Visualization"
+  },
+  {
+    "id": "83",
+    "quote": "Your imagination is your preview of life's coming attractions.",
+    "category": "Visualization"
+  },
+  {
+    "id": "84",
+    "quote": "What the mind can conceive and believe, it can achieve.",
+    "category": "Visualization"
+  },
+  {
+    "id": "85",
+    "quote": "Visualize this: You are exactly where you need to be.",
+    "category": "Visualization"
+  },
+  {
+    "id": "86",
+    "quote": "Picture your success, then make it happen.",
+    "category": "Visualization"
+  },
+  {
+    "id": "87",
+    "quote": "The future belongs to those who can see it clearly.",
+    "category": "Visualization"
+  },
+  {
+    "id": "88",
+    "quote": "Dreams are illustrations from the book your soul is writing.",
+    "category": "Visualization"
+  },
+  {
+    "id": "89",
+    "quote": "Imagine it. Believe it. Create it.",
+    "category": "Visualization"
+  },
+  {
+    "id": "90",
+    "quote": "Your mind is a powerful thing. When you fill it with positive thoughts, your life will start to change.",
+    "category": "Visualization"
+  },
+  {
+    "id": "91",
+    "quote": "Gratitude turns what we have into enough.",
+    "category": "Gratitude"
+  },
+  {
+    "id": "92",
+    "quote": "A grateful heart is a magnet for miracles.",
+    "category": "Gratitude"
+  },
+  {
+    "id": "93",
+    "quote": "Gratitude is not only the greatest of virtues but the parent of all others.",
+    "category": "Gratitude"
+  },
+  {
+    "id": "94",
+    "quote": "Be thankful for what you have; you'll end up having more.",
+    "category": "Gratitude"
+  },
+  {
+    "id": "95",
+    "quote": "Gratitude makes sense of our past, brings peace for today, and creates vision for tomorrow.",
+    "category": "Gratitude"
+  },
+  {
+    "id": "96",
+    "quote": "The thankful receiver bears a plentiful harvest.",
+    "category": "Gratitude"
+  },
+  {
+    "id": "97",
+    "quote": "Count your blessings, not your problems.",
+    "category": "Gratitude"
+  },
+  {
+    "id": "98",
+    "quote": "Gratitude is the healthiest of all human emotions.",
+    "category": "Gratitude"
+  },
+  {
+    "id": "99",
+    "quote": "What we appreciate, appreciates.",
+    "category": "Gratitude"
+  },
+  {
+    "id": "100",
+    "quote": "Gratitude is a currency that we can mint for ourselves.",
+    "category": "Gratitude"
+  },
+  {
+    "id": "101",
+    "quote": "Your five senses are your gateway to the present moment.",
+    "category": "Senses"
+  },
+  {
+    "id": "102",
+    "quote": "Stop and smell the roses. Really smell them.",
+    "category": "Senses"
+  },
+  {
+    "id": "103",
+    "quote": "The senses are the windows to the soul.",
+    "category": "Senses"
+  },
+  {
+    "id": "104",
+    "quote": "Touch the earth, feel alive.",
+    "category": "Senses"
+  },
+  {
+    "id": "105",
+    "quote": "Listen with your whole being.",
+    "category": "Senses"
+  },
+  {
+    "id": "106",
+    "quote": "See the world with fresh eyes every day.",
+    "category": "Senses"
+  },
+  {
+    "id": "107",
+    "quote": "Taste this moment. Savor it fully.",
+    "category": "Senses"
+  },
+  {
+    "id": "108",
+    "quote": "Your senses are your compass to presence.",
+    "category": "Senses"
+  },
+  {
+    "id": "109",
+    "quote": "Feel everything. Fear nothing.",
+    "category": "Senses"
+  },
+  {
+    "id": "110",
+    "quote": "Awaken your senses, awaken your life.",
+    "category": "Senses"
+  },
+  {
+    "id": "111",
+    "quote": "Work with purpose, rest with intention.",
+    "category": "Work"
+  },
+  {
+    "id": "112",
+    "quote": "Your work is going to fill a large part of your life, so make it meaningful.",
+    "category": "Work"
+  },
+  {
+    "id": "113",
+    "quote": "Pressure is a privilege. Handle it with grace.",
+    "category": "Work"
+  },
+  {
+    "id": "114",
+    "quote": "Success is not the absence of stress, but finding peace within it.",
+    "category": "Work"
+  },
+  {
+    "id": "115",
+    "quote": "Do what you love, and you'll never work a day in your life.",
+    "category": "Work"
+  },
+  {
+    "id": "116",
+    "quote": "Your career is a marathon, not a sprint. Pace yourself.",
+    "category": "Work"
+  },
+  {
+    "id": "117",
+    "quote": "Excellence is never an accident. It is the result of intention and effort.",
+    "category": "Work"
+  },
+  {
+    "id": "118",
+    "quote": "Work hard in silence. Let success make the noise.",
+    "category": "Work"
+  },
+  {
+    "id": "119",
+    "quote": "Balance is not something you find, it's something you create.",
+    "category": "Work"
+  },
+  {
+    "id": "120",
+    "quote": "Your work is an expression of your values.",
+    "category": "Work"
+  },
+  {
+    "id": "121",
+    "quote": "Progress, not perfection.",
+    "category": "Productive"
+  },
+  {
+    "id": "122",
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "category": "Productive"
+  },
+  {
+    "id": "123",
+    "quote": "You don't have to be great to get started, but you have to get started to be great.",
+    "category": "Productive"
+  },
+  {
+    "id": "124",
+    "quote": "Productivity is never an accident. It is always the result of planning and focused effort.",
+    "category": "Productive"
+  },
+  {
+    "id": "125",
+    "quote": "Done is better than perfect.",
+    "category": "Productive"
+  },
+  {
+    "id": "126",
+    "quote": "Small steps daily lead to big dreams yearly.",
+    "category": "Productive"
+  },
+  {
+    "id": "127",
+    "quote": "Focus on being productive instead of busy.",
+    "category": "Productive"
+  },
+  {
+    "id": "128",
+    "quote": "The secret to getting ahead is getting started.",
+    "category": "Productive"
+  },
+  {
+    "id": "129",
+    "quote": "Time is what we want most, but what we use worst.",
+    "category": "Productive"
+  },
+  {
+    "id": "130",
+    "quote": "Action is the foundational key to all success.",
+    "category": "Productive"
+  }
+]

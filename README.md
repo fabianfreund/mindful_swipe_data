@@ -7,7 +7,44 @@ This repository contains a dynamic list of daily mindfulness practices for the *
 ## 📄 File Structure
 
 - `practices.json`:  
-  A list of recommended mindful practices with properties like difficulty, category, and premium flag.
+  A list of 75 recommended mindful practices with properties like difficulty, category, and premium flag.
+
+- `quotes.json`:  
+  A collection of 130 inspirational quotes organized by the same categories as practices for seamless pairing.
+
+---
+
+## 🗂️ Practice Categories
+
+The mindfulness practices are organized into the following categories:
+
+| Category | Description |
+|----------|-------------|
+| **Breathing** | Breath-focused techniques for calm and awareness |
+| **Stillness** | Meditation and quiet observation practices |
+| **Focus** | Concentration and attention training exercises |
+| **Compassion** | Self-kindness and loving-kindness practices |
+| **Movement** | Mindful physical activities and body awareness |
+| **Detox** | Digital breaks and mental decluttering |
+| **Ritual** | Mindful daily activities and routines |
+| **Nature** | Outdoor and nature-based mindfulness |
+| **Visualization** | Guided imagery and mental exercises |
+| **Gratitude** | Appreciation and thankfulness practices |
+| **Senses** | Five senses awareness and grounding |
+| **Work** | Workplace mindfulness and professional stress relief |
+| **Productive** | Mindful productivity and task management |
+
+---
+
+## 📊 Practices Overview
+
+The `practices.json` file contains **75 mindfulness practices** designed for micro-moments of presence throughout the day. Each practice includes:
+
+- **Clear instructions** telling users exactly what to do
+- **Simple language** accessible to beginners and experts alike  
+- **Time-efficient** exercises (mostly 1-5 minutes)
+- **Probability weighting** to favor simple, effective practices
+- **Premium/free designation** for app monetization
 
 ---
 
@@ -41,22 +78,54 @@ Each practice follows this structure:
 
 ---
 
-## 🔄 Updating Practices
+## 💬 Quotes Schema
 
-To update the practices shown in the app:
+Each inspirational quote follows this structure:
 
-1. Edit `practices.json`
+```json
+{
+  "id": "1",
+  "quote": "Breath is the bridge which connects life to consciousness, which unites your body to your thoughts.",
+  "category": "Breathing"
+}
+```
+
+### Quote Field Definitions
+
+| Field      | Type   | Description                                        |
+|------------|--------|----------------------------------------------------|
+| `id`       | String | Unique identifier                                  |
+| `quote`    | String | Inspirational quote text                           |
+| `category` | String | Same categories as practices for easy pairing      |
+
+The quotes are designed to complement the practices and can be paired by category for a complete mindful moment experience.
+
+---
+
+## 🔄 Updating Content
+
+To update the practices and quotes shown in the app:
+
+1. Edit `practices.json` and/or `quotes.json`
 2. Commit and push your changes
 3. The app will fetch the new data automatically (no app update required)
+
+Both files use the same category system, making it easy to pair related content for a cohesive mindful experience.
 
 ---
 
 ## 🔗 Usage in App
 
-The file is fetched via:
+The files are fetched via:
 
+**Practices:**
 ```
 https://raw.githubusercontent.com/fabianfreund/mindful_swipe_data/main/practices.json
+```
+
+**Quotes:**
+```
+https://raw.githubusercontent.com/fabianfreund/mindful_swipe_data/main/quotes.json
 ```
 
 Make sure your repository is **public** so the app can access the raw data.
@@ -65,7 +134,7 @@ Make sure your repository is **public** so the app can access the raw data.
 
 ## 📥 Contribution
 
-Feel free to fork and suggest new practices! Open a pull request with new ideas for mindful moments ✨
+Feel free to fork and suggest new practices and quotes! Open a pull request with new ideas for mindful moments and inspiring wisdom ✨
 
 ---
 
